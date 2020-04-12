@@ -1,0 +1,6 @@
+[submodule "hackovid-api"]
+	path = hackovid-api
+	url = https://github.com/sergiowalls/hackovid-api
+[submodule "hackovid-web"]
+	path = hackovid-web
+	url = https://github.com/sergiowalls/hackovid-web
